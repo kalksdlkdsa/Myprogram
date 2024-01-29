@@ -1,0 +1,18 @@
+div {
+    display:block;
+}
+span {
+    display:inline-block;
+}
+#omgagain div {
+    font-size:15px;
+    color: #792f79;
+}
+#omglasfdlkad p {
+    font-size:15px;
+    color:#97f297;
+}
+.omgforanything {
+    font-size:15px;
+    color:#97f297;
+}
